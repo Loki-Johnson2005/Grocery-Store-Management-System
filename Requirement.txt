@@ -1,0 +1,4 @@
+#Requirements 
+Python 3.12
+Python Flask
+MySQL Connector
